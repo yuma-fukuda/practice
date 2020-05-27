@@ -28,3 +28,9 @@ public class Stepseq20_4 {
 
 
 }
+/*仕様
+・以下の定数を定義すること
+　　boolean,char,String,byte,short,int,long,double,float
+・設定する値は、対応する型に対応した任意のものとする
+*/
+
