@@ -6,3 +6,6 @@ public class Stepseq20_1 {
 	}
 
 }
+/*仕様
+・文字列「HelloWorld Java」を出力すること
+*/
