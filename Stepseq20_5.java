@@ -24,3 +24,7 @@ public class Stepseq20_5 {
 	}
 
 }
+/*仕様
+・以下の型の変数を定義し、すべての変数へ適切な値を設定すること
+　　boolean,char,String,byte,short,int,long,double,float
+*/
